@@ -4,6 +4,14 @@
   "description": "Model Context Protocol server exposing customer lookup and refund tools over stdio with strict input validation.",
   "license": "MIT",
   "author": "Manthan <mmarucr7@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mmarucr7/customer-refund-mcp-server.git"
+  },
+  "homepage": "https://github.com/Mmarucr7/customer-refund-mcp-server#readme",
+  "bugs": {
+    "url": "https://github.com/Mmarucr7/customer-refund-mcp-server/issues"
+  },
   "type": "module",
   "main": "dist/index.js",
   "bin": {

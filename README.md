@@ -17,7 +17,7 @@ The server ships with an in-memory customer store and a small set of seed custom
 ## Install and build
 
 ```sh
-git clone <repository-url> customer-refund-mcp-server
+git clone https://github.com/Mmarucr7/customer-refund-mcp-server.git
 cd customer-refund-mcp-server
 npm ci
 npm run build
